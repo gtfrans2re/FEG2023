@@ -1,5 +1,7 @@
 # Forum de l'Étudiant Guinéen (FEG) 2023
 
+![Couverture FEG : Forum de l’Étudiant Guinéen 2023](images/FEG2023CoverImage.png)
+
 ## Informations Générales
 - **Date :** 6 - 8 Décembre 2023
 - **Lieu :** Palais du Peuple République de Guinée
