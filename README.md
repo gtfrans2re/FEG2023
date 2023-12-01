@@ -74,6 +74,6 @@
 - **Encouragement des Jeunes Hommes :**
   - Motiver les jeunes hommes à suivre des exemples de succès, y compris le mien.
 - **Inspiration pour les Jeunes Filles :**
-  - Inciter les jeunes filles à s'inspirer de figures réussies telles que Idrissa Bah et Kadiatou Konate, lauréates de prix nationaux et internationaux.
+  - Inciter les jeunes filles à s'inspirer de figures réussies telles que Dr. Diaka SIDIBE, Idrissa Bah et Kadiatou Konate, lauréates de prix nationaux et internationaux.
 - **Reconnaissance des Personnes en Situation de Handicap / Vulnérabilité :**
   - Mentionner Miss Albi, 2e dauphine de Miss Guinée, comme source d'inspiration, en particulier pour les personnes atteintes d'albinisme.
