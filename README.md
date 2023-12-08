@@ -91,7 +91,7 @@
 
 Voici une ressource gratuite et open source pour vous initier à la plupart des sujets mentionnés ci-dessus 👇👇👇:
 
-[https://edu.gcfglobal.org/en/topics/]([https://lnkd.in/e_xYThei](https://edu.gcfglobal.org/en/topics/))
+[https://edu.gcfglobal.org/en/topics/](https://edu.gcfglobal.org/en/topics/)
 
 Bien que le contenu du site soit disponible uniquement en anglais, en espagnol et en portugais, vous pouvez installer l'extension de navigateur Google Translate pour traduire la page en français pour vous.
 Vous trouverez les instructions sur comment le faire ici 👉 [https://support.google.com/chrome/answer/173424?hl=fr&co=GENIE.Platform%3DDesktop&fbclid=IwAR0Cplv1v6TskG2UWjRUkD_ujun5dJY8RUb3dMKm3vzUPkqXZyEI8GoAz3s](https://support.google.com/chrome/answer/173424?hl=fr&co=GENIE.Platform%3DDesktop&fbclid=IwAR0Cplv1v6TskG2UWjRUkD_ujun5dJY8RUb3dMKm3vzUPkqXZyEI8GoAz3s)
