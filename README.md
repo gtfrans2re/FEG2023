@@ -88,14 +88,15 @@
 
 3. **Maîtriser les fonctionnalités de base des ordinateurs** 💻 : cela vous démarquera un peu dans le monde extérieur aujourd'hui très compétitif. Utiliser un PC pour préparer vos documents, feuilles de calcul et présentations visuelles vous sauvera beaucoup peu importe votre secteur d’activité ;
 
----
 
 Voici une ressource gratuite et open source pour vous initier à la plupart des sujets mentionnés ci-dessus 👇👇👇:
 
-[https://lnkd.in/e_xYThei](https://lnkd.in/e_xYThei)
+[https://edu.gcfglobal.org/en/topics/]([https://lnkd.in/e_xYThei](https://edu.gcfglobal.org/en/topics/))
 
 Bien que le contenu du site soit disponible uniquement en anglais, en espagnol et en portugais, vous pouvez installer l'extension de navigateur Google Translate pour traduire la page en français pour vous.
-Vous trouverez les instructions sur comment le faire ici 👉 [https://lnkd.in/e5zPD6ir](https://lnkd.in/e5zPD6ir)
+Vous trouverez les instructions sur comment le faire ici 👉 [https://support.google.com/chrome/answer/173424?hl=fr&co=GENIE.Platform%3DDesktop&fbclid=IwAR0Cplv1v6TskG2UWjRUkD_ujun5dJY8RUb3dMKm3vzUPkqXZyEI8GoAz3s](https://support.google.com/chrome/answer/173424?hl=fr&co=GENIE.Platform%3DDesktop&fbclid=IwAR0Cplv1v6TskG2UWjRUkD_ujun5dJY8RUb3dMKm3vzUPkqXZyEI8GoAz3s)
+
+---
 
 ### 5 Choses Que Vous Pouvez Faire Pour Lancer Votre Chemin Sans Attendre le Gouvernement ou l'Emploi en Entreprise 🚀
 
@@ -103,12 +104,12 @@ Vous trouverez les instructions sur comment le faire ici 👉 [https://lnkd.in/e
    - Exemple de plate-forme d'enseignement en ligne : [TeacherOn](https://www.teacheron.com/)
 
 2. **Offrez des Produits ou des Services** : Identifiez et vendez des produits ou services demandés dans votre cercle social ou communauté.  
-   - Étapes pour faire l'étude de marché : [Lien](https://lnkd.in/eFnsEhss)
+   - Étapes pour faire l'étude de marché : [Lien](https://www.shopify.com/fr/blog/faire-une-etude-de-marche-de-niche-conseils-et-ressources?fbclid=IwAR0kLi76PA7pYb0Hdnd1vSodRAvJesoaUt9GMGKXOCtWYWAMm7E-RnttIac)
 
 3. **Bénéficiez de la Sagesse de Mentors Accomplis** : Cherchez des conseils auprès d'experts et de professionnels expérimentés.
 
 4. **Participez à des Événements et au Réseautage** : Assistez à des conférences, compétitions, et événements locaux pour des opportunités de collaboration.  
-   - Lien d'accès : [Événements Proches](https://lnkd.in/ePHChUga)
+   - Lien d'accès : [Événements Proches](https://www.facebook.com/events)
 
 5. **Servez au Sein d'Organisations à But Non Lucratif** : Travaillez avec des organisations alignées sur vos passions et développez vos compétences.
 
@@ -116,4 +117,4 @@ Vous trouverez les instructions sur comment le faire ici 👉 [https://lnkd.in/e
 
 **Et Rappelez-vous : "Une Partie de Ce que Vous Gagnez Vous Appartient."**  
 - Mettez de côté 10 % de vos gains pour les moments difficiles.  
-  - À propos du livre "L'Homme le Plus Riche de Babylone" : [Informations](https://lnkd.in/e5JZhHYS)
+  - À propos du livre "L'Homme le Plus Riche de Babylone" : [Informations](https://www.google.com/books/edition/_/RjS1uAAACAAJ?hl=fr)
