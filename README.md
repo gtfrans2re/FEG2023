@@ -11,20 +11,20 @@
 - **Thème :** “L’entrepreneuriat et le développement des compétences : les métiers du futur et l’innovation”
 
 ### Panélistes :
-1. M. Youssouf Bhoundou SYLLA, SG/METFP
-2. Mme. Aminata Deen TOURE, DGI/MESRSI
-3. M. Mountaga KEITA, DG/TULIP INDUSTRIES
-4. M. Mazhougou GOÉPOGUI, DG/MAGOE EDUCATION
-5. M. Francois Gonothi TOURE, JEUNE INNOVATEUR - PARI & SDN
-6. Un(e) étudiant(e) de formation initiale.
+
+1. Mme. [Aminata Deen TOURE](https://www.linkedin.com/in/aminata-deen-t-25a04a4a/), DGI/MESRSI
+2. M. [Mountaga KEITA](https://www.linkedin.com/in/mountaga-keita-439476143/), DG/TULIP INDUSTRIES
+3. M. [Mazhougou GOÉPOGUI](https://www.facebook.com/massaleidamagoe.mazoughou), DG/MAGOE EDUCATION
+4. M. [Francois Gonothi TOURE](https://www.linkedin.com/in/gtfrans2re/), JEUNE INNOVATEUR - PARI & SDN
+5. Mlle. Aissatou Lamarana BALDE, ÉTUDIANTE À l'UNC.
 
 ### Modérateur :
-- Prof. Abdoulaye Banire DIALLO, DG/Lab BioInfo - UQAM
+- M. [Mohamed DOUMBOUYA](https://www.linkedin.com/in/mohamed-doumbouya-37469935/), Atelier Solidaire
 
 ## Introduction par Francois Gonothi TOURE
-1. **Présentation :** Bonjour à tous et bienvenue à ce panel. Je suis Francois Gonothi TOURE, roboticien et ingénieur IA en évolution. Diplômé d'une université indienne, je suis actuellement inscrit en maîtrise de recherche en informatique dans le laboratoire de bioinformatique de l'UQÀM sous la direction éclairée du Prof. Banire. Je suis le récipiendaire du 2e Prix Innovateur de l'année 2023 décerné lors du Prix Annuel de la Recherche et de l'Innovation (PARI) par le MESRSI et également lauréat du 2e prix Innovateur à la Semaine du Numérique (SDN) 2023 organisée par le MPTEN. J'ai également remporté 3 prix au-delà de nos frontières notamment au Deep Learning Indaba 2023, la plus grande rencontre d'experts africains et internationaux en IA, où j'ai gagné le prix du meilleur projet d'innovation, le prix de la meilleure affiche de recherche scientifique sur le sujet de l'interaction humain-robot et l'entraînement d'un réseau de neurones pour un bras robotisé.
+1. **Présentation :** Bienvenue à ce panel. Je suis Francois Gonothi TOURE, roboticien et ingénieur IA en évolution. Diplômé d'une université indienne, je suis actuellement inscrit en maîtrise de recherche en informatique dans le laboratoire de bioinformatique de l'UQÀM sous la direction éclairée du Prof. Abdoulaye Banire DIALLO. Je suis le récipiendaire du 2e Prix Innovateur de l'année 2023 décerné lors du Prix Annuel de la Recherche et de l'Innovation (PARI) par le Ministère de l'Enseignement Supérieur de la Recherche Scientifique et fde l'Innovation (MESRSI) et également lauréat du 2e prix Innovateur à la Semaine du Numérique (SDN) 2023 organisée par le Ministère des Postes, des Télécommunications et de l'Économie Numérique (MPTEN). J'ai également remporté 3 prix au-delà de nos frontières notamment au Deep Learning Indaba 2023, la plus grande rencontre d'experts africains et internationaux en IA, où j'ai gagné le prix du meilleur projet d'innovation, le prix de la meilleure affiche de recherche scientifique sur le sujet de l'interaction humain-robot et l'entraînement d'un réseau de neurones pour un bras robotisé.
 
-2. **Expérience Personnelle avec le FEG :** Aujourd'hui, je souhaite débuter en partageant mon expérience personnelle avec le FEG. C'est grâce à cet événement qu'en 2018 je suis entré en contact avec une université indienne pour la poursuite de mes études de premier cycle en robotique.
+2. **Expérience Personnelle avec le FEG :** Je souhaite débuter en partageant mon expérience personnelle avec le FEG. C'est grâce à cette plateforme, qu'en 2018, je suis entré en contact avec mon université indienne dans le cadre de la poursuite de mes études de premier cycle en robotique.
 
 ## Sujets Discutés
 ### 1. ENTREPRENEURIAT
@@ -50,18 +50,18 @@
   - Histoire d'un retraité de SBK (Société des Bauxites de Kindia) rappelé faute de remplaçant qualifié illustrant le manque de compétences spécialisées.
 - **Rôle de l'État dans le Développement des Compétences :**
   - MESRSI : création de classes préparatoires à Dalaba,  l'intégration des pôles de Valorisation de l'Innovation et de l'Entrepreneuriat (VIE) au sein de nos institutions d'enseignement supérieur, la création d'un pôle d'innovation pour faciliter l'insertion des startups, PME, et laboratoires de recherche scientifique dans un même écosystème, chose qui favorise le transfert de technologie. L'organisation de la SENARI, couplée au PARI, qui stimule la compétition, l'innovation et la recherche scientifique dans notre pays ;
-  - METFP : expansion des ERAM et de l'ENAM ;
-  - MEPU-A : réhabilitation des écoles publiques et organisation de concours éducatifs ;
-  - Promotion de l'étude des métiers du futur à l'étranger pour les jeunes Guinéens.
+  - METFP : expansion des Écoles Régionales des Arts et Métiers (ERAM) se rajoutant à l'École Nationale des Arts et Métiers (ENAM) ;
+  - MEPU-A : réhabilitation et expansion des écoles publiques et organisation de concours éducatifs ;
+  - Promotion de l'étude des métiers du futur à l'étranger pour les jeunes Guinéens en vue de revenir mettre leurs compétences au service du développment socio-économique de notre pays.
 
 ### 3. LES MÉTIERS DU FUTUR ET L’INNOVATION
 - **Accessibilité de l'Innovation :**
   - Affirmation que personne n'est laissé pour compte dans l'innovation technologique.
 - **Exemple de Transition de Carrière :**
-  - Histoire de Mountaga Keita, banquier devenu innovateur ;
+  - Histoire de Mountaga Keita, juriste-banquier devenu innovateur ;
   - Idée qu'il suffit d'un stylo, d'un papier, d'un appareil électronique et d'une connexion internet pour innover.
 - **Inclusion dans l'Innovation :**
-  - Les biologistes et agronomes ne doivent pas se sentir exclus de l'innovation technologique ;
+  - Les biologistes et agronomes, par exemple, ne doivent pas se sentir exclus de l'innovation technologique ;
   - Pas besoin d'être expert en informatique pour innover.
 - **Collaboration Interdisciplinaire :**
   - Exemple du Prof Banire au Canada ;
