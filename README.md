@@ -5,7 +5,7 @@
 ## Informations Générales
 - **Date :** 6 - 8 Décembre 2023
 - **Lieu :** Palais du Peuple République de Guinée
-- **Par :** Ministère de l’Enseignement Supérieur de la Recherche Scientifique et de l’Innovation (MESRSI), République de Guinée
+- **Par :** Ministère de l’Enseignement Supérieur de la Recherche Scientifique et de l’Innovation ([MESRSI](https://mesrs.gov.gn)), République de Guinée
 
 ## Participation au panel 5
 - **Thème :** “L’entrepreneuriat et le développement des compétences : les métiers du futur et l’innovation”
